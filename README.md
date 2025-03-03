@@ -1,6 +1,6 @@
 # Awesome AI Software Development Agents (Engineers) 🚀
 
-![11AI Software Development agents (engineers)](./11AI Software Development agents (engineers).png)
+![11AI Software Development agents (engineers)](https://github.com/flatlogic/awesome-ai-software-development-agents/blob/8c797b36552cb2280133f9a55e0bf984c85874f0/11AI%20Software%20Development%20agents%20(engineers).png)
 
 This is a curated list of autonomous AI Agents designed specifically to handle software development tasks traditionally performed by human developers. These tools accept natural language as input and produce executable software as output.
 
