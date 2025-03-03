@@ -33,7 +33,7 @@ This list **does NOT include**:
 | **Create.xyz**                 | [create.xyz](https://create.xyz)               | No-code web app builder using AI from text/images                      | Free + Premium |
 | **Databutton**                 | [databutton.com](https://databutton.com)       | Full-cycle AI app developer (planning, coding, deployment)             | Premium        |
 | **Devin AI**                   | [devin.ai](https://devin.ai)                   | Autonomous AI software engineer handling complete tasks                | Premium        |
-| **Flatlogic AI Software Engineer** | [flatlogic.com](https://flatlogic.com)     | Schema-driven AI generator for SaaS, CRM, ERP apps                     | Free + Premium |
+| **Flatlogic AI Software Engineer** | [Flatlogic AI Software Engineer]([https://flatlogic.com](https://flatlogic.com/ai-software-development-agent)     | Schema-driven AI generator for SaaS, CRM, ERP apps                     | Free + Premium |
 | **GPT-Engineer**               | [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) | Minimalist AI generating complete codebases                           | Free           |
 | **GPT-Pilot**                  | [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) | Multi-agent AI team simulating complete SDLC                           | Free           |
 | **HeyBoss.xyz**                | [heyboss.xyz](https://heyboss.xyz)             | AI conversational web-app/site/game generator                          | Premium        |
