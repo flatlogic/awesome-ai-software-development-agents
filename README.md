@@ -29,7 +29,7 @@ This list **does NOT include**:
 | Tool                           | Link                                           | Description                                                            | Pricing        |
 | ------------------------------ | ---------------------------------------------- | ---------------------------------------------------------------------- | -------------- |
 | **Bolt.new**                   | [bolt.new](https://bolt.new)                   | Full-stack browser-based IDE with conversational AI coding & deployment| Free           |
-| **Co.dev**                     | [co.dev](https://co.dev)                       | AI-generated Next.js & Supabase apps from text prompts                 | Premium        |
+| **Co.dev**                     | [co.dev](https://co.dev)                       | AI-generated Next.js & Supabase apps from text prompts                 | Free + Premium |
 | **Create.xyz**                 | [create.xyz](https://create.xyz)               | No-code web app builder using AI from text/images                      | Free + Premium |
 | **Databutton**                 | [databutton.com](https://databutton.com)       | Full-cycle AI app developer (planning, coding, deployment)             | Premium        |
 | **Devin AI**                   | [devin.ai](https://devin.ai)                   | Autonomous AI software engineer handling complete tasks                | Premium        |
