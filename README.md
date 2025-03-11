@@ -49,7 +49,7 @@ This list **does NOT include**:
 
 ---
 
-## 🚀 How to Contribute
+## 🚀 [How to Contribute](https://github.com/flatlogic/awesome-ai-software-development-agents/blob/master/contributing.md)
 
 1. **Fork** the repository.
 2. **Add** your AI software development agent maintaining the current format.
