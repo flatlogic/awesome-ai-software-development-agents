@@ -8,7 +8,9 @@ We welcome your contributions to the **Awesome AI Software Development Agents** 
 2. **Add Your Agent**
    - Add your AI software development agent to the list using the following format:
 
+```markdown
 | Tool Name | [yourtool.link](https://yourtool.link) | Short, clear description highlighting main features | Pricing info (e.g., Free, Free + Premium, Premium) |
+```
 
 3. **Submit a Pull Request**
    - Create a pull request with a concise yet informative title (e.g., "Add [Your Tool Name] to the list").
