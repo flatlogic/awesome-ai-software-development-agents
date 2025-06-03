@@ -40,7 +40,6 @@ This list **does NOT include**:
 | **HeyBoss.xyz**                | [heyboss.xyz](https://heyboss.xyz)             | AI conversational web-app/site/game generator                          | Premium        |
 | **Lovable.dev**                | [lovable.dev](https://lovable.dev)             | Conversational AI quickly building full-stack web apps                 | Premium        |
 | **Magically.life**             | [magically.life](https://magically.life)       | AI mobile app generator (iOS/Android)                                  | Premium        |
-| **Marblism**                   | [marblism.com](https://marblism.com)           | Multi-agent AI platform collaboratively building web apps              | Premium        |
 | **Memex**                      | [memex.tech](https://memex.tech)               | Build anything in any stack, with just natural language, on your desktop | Free + Premium |
 | **Probz AI**                   | [probz.ai](https://probz.ai)                   | No-code AI builder for CRUD apps and internal tools                    | Premium        |
 | **Replit (Agent)**             | [replit.com](https://replit.com)               | Online IDE with conversational AI agent                                | Free + Premium |
