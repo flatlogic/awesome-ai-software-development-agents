@@ -33,6 +33,7 @@ This list **does NOT include**:
 | **Create.xyz**                 | [create.xyz](https://create.xyz)               | No-code web app builder using AI from text/images                      | Free + Premium |
 | **Databutton**                 | [databutton.com](https://databutton.com)       | Full-cycle AI app developer (planning, coding, deployment)             | Premium        |
 | **Devin AI**                   | [devin.ai](https://devin.ai)                   | Autonomous AI software engineer handling complete tasks                | Premium        |
+| **Fellow**                     | [Fellow](https://github.com/ManuelZierl/fellow)| Fellow is a command-line AI assistant built by developers, for developers. Unlike most AI tools that stop at suggesting code, Fellow goes a step further: It executes tasks on your behalf. It reasons step-by-step, chooses commands from a plugin system, and edits files, generates content, or writes tests — autonomously.                     | Free   |
 | **Flatlogic AI Software Engineer** | [Flatlogic AI Software Engineer](https://flatlogic.com/ai-software-development-agent)     | Schema-driven AI generator for SaaS, CRM, ERP apps                     | Free + Premium |
 | **Giselle**                    | [Giselle](https://giselles.ai/)                | AI App Builder. Open Source.                                           | Free + Premium |
 | **GPT-Engineer**               | [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) | Minimalist AI generating complete codebases                           | Free           |
