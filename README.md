@@ -45,7 +45,6 @@ This list **does NOT include**:
 | **Replit (Agent)**             | [replit.com](https://replit.com)               | Online IDE with conversational AI agent                                | Free + Premium |
 | **Smol Developer**             | [Smol Developer](https://github.com/smol-ai/developer) | Minimalist AI agent for rapid code generation                          | Free           |
 | **ToolJet**                    | [tooljet.ai](https://tooljet.ai)               | AI-enhanced low-code platform for internal tools                       | Free + Premium |
-| **v0.dev**                     | [v0.dev](https://v0.dev)                       | AI-driven frontend UI builder (React/Next.js)                          | Free           |
 
 ---
 
