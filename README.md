@@ -38,6 +38,7 @@ This list **does NOT include**:
 | **GPT-Engineer**               | [GPT-Engineer](https://github.com/AntonOsika/gpt-engineer) | Minimalist AI generating complete codebases                           | Free           |
 | **GPT-Pilot**                  | [GPT-Pilot](https://github.com/Pythagora-io/gpt-pilot) | Multi-agent AI team simulating complete SDLC                           | Free           |
 | **HeyBoss.xyz**                | [heyboss.xyz](https://heyboss.xyz)             | AI conversational web-app/site/game generator                          | Premium        |
+| **Leap.new**                | [leap.new](https://leap.new/)             | AI developer agent that builds production-grade apps and deploys them to your own cloud          | Free + Premium        |
 | **Lovable.dev**                | [lovable.dev](https://lovable.dev)             | Conversational AI quickly building full-stack web apps                 | Premium        |
 | **Magically.life**             | [magically.life](https://magically.life)       | AI mobile app generator (iOS/Android)                                  | Premium        |
 | **Memex**                      | [memex.tech](https://memex.tech)               | Build anything in any stack, with just natural language, on your desktop | Free + Premium |
