@@ -29,6 +29,7 @@ This list **does NOT include**:
 | Tool                           | Link                                           | Description                                                            | Pricing        |
 | ------------------------------ | ---------------------------------------------- | ---------------------------------------------------------------------- | -------------- |
 | **Bolt.new**                   | [bolt.new](https://bolt.new)                   | Full-stack browser-based IDE with conversational AI coding & deployment| Free           |
+| **Base44.com**                  | [base44.com](https://base44.com/)                   | Base44 lets you build fully-functional apps | Free           |
 | **Co.dev**                     | [co.dev](https://co.dev)                       | AI-generated Next.js & Supabase apps from text prompts                 | Free + Premium |
 | **Create.xyz**                 | [create.xyz](https://create.xyz)               | No-code web app builder using AI from text/images                      | Free + Premium |
 | **Databutton**                 | [databutton.com](https://databutton.com)       | Full-cycle AI app developer (planning, coding, deployment)             | Premium        |
@@ -42,6 +43,7 @@ This list **does NOT include**:
 | **Lovable.dev**                | [lovable.dev](https://lovable.dev)             | Conversational AI quickly building full-stack web apps                 | Premium        |
 | **Magically.life**             | [magically.life](https://magically.life)       | AI mobile app generator (iOS/Android)                                  | Premium        |
 | **Memex**                      | [memex.tech](https://memex.tech)               | Build anything in any stack, with just natural language, on your desktop | Free + Premium |
+| **Mocha**                      | [getmocha.com](https://getmocha.com/)          | Front-end only react app builder              | Free + Premium |
 | **Probz AI**                   | [probz.ai](https://probz.ai)                   | No-code AI builder for CRUD apps and internal tools                    | Premium        |
 | **Replit (Agent)**             | [replit.com](https://replit.com)               | Online IDE with conversational AI agent                                | Free + Premium |
 | **Smol Developer**             | [Smol Developer](https://github.com/smol-ai/developer) | Minimalist AI agent for rapid code generation                          | Free           |
