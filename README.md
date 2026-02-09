@@ -50,6 +50,7 @@ This list **does NOT include**:
 | **Probz AI**                   | [probz.ai](https://probz.ai)                                                              | Cloud         | No‑code AI builder for CRUD apps and internal tools                                                             | Premium        |
 | **Replit (Agent)**             | [replit.com](https://replit.com)                                                          | Cloud         | Online IDE with conversational AI agent                                                                         | Free + Premium |
 | **Smol Developer**             | [Smol Developer](https://github.com/smol-ai/developer)                                    | CLI           | Minimalist AI agent for rapid code generation                                                                   | Free           |
+| **Holy Grail** | [github.com/dakotalock/holygrailopensource](https://github.com/dakotalock/holygrailopensource) | Cloud | Autonomous AI development agent that generates, evolves, and deploys complete web applications with long-term memory. | Free |
 | **ToolJet**                    | [tooljet.ai](https://tooljet.ai)                                                          | Cloud         | AI‑enhanced low‑code platform for internal tools                                                                | Free + Premium |
 
 ---
