@@ -74,6 +74,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | OpenCode | https://github.com/opencode-ai/opencode | CLI | CLI Agent | Open-source coding agent (TUI) with repo workflows/integrations | Free |
 | OpenDevin | https://github.com/AI-App/OpenDevin.OpenDevin | Cloud / OSS | Autonomous Agent | Open-source “Devin-like” autonomous engineer project | Free |
 | OpenHands | https://github.com/OpenHands/OpenHands | SDK / CLI | Agent Framework | Framework/ecosystem for building and running software engineering agents | Free |
+| OpenPaw | https://github.com/daxaur/openpaw | CLI | CLI Agent | Turns Claude Code into a personal assistant with 38 skills (Telegram, Discord, Obsidian, daily briefings, and more) via `npx pawmode` | Free |
 | Probz AI | https://probz.ai/ | Cloud | App Builder | No-code AI builder for CRUD apps and internal tools | Premium |
 | Replit (Agent) | https://replit.com/ | Cloud | IDE Agent | Online IDE with conversational AI agent | Free + Premium |
 | Smol Developer | https://github.com/smol-ai/developer | CLI | CLI Agent | Minimalist agent for rapid code generation and iteration | Free |
