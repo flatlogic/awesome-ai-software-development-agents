@@ -79,6 +79,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Smol Developer | https://github.com/smol-ai/developer | CLI | CLI Agent | Minimalist agent for rapid code generation and iteration | Free |
 | SWE-agent | https://github.com/SWE-agent/SWE-agent | CLI | Autonomous Agent | Autonomous agent that fixes real GitHub issues/repos (SWE-bench oriented) | Free |
 | ToolJet | https://tooljet.com/ | Cloud | Low-Code Platform | AI-enhanced low-code platform for internal tools | Free + Premium |
+| Shep | https://github.com/shep-ai/cli | CLI + Web | Multi-Agent Orchestrator | SDLC control center that orchestrates multiple AI coding agents (Claude Code, Cursor CLI, Gemini) for autonomous feature development with approval gates | Free |
 | Windsurf | https://windsurf.com/editor | IDE | IDE Agent | Agentic IDE focused on fast iterate/build loop | Free + Premium |
 
 ---
