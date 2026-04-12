@@ -59,6 +59,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Create.xyz | https://create.xyz/ | Cloud | App Builder | No-code web app builder using AI from text/images | Free + Premium |
 | Cursor (Agent) | https://cursor.com/ | IDE | IDE Agent | Agent mode in IDE: edits repo, runs terminal commands, searches codebase | Premium |
 | Databutton | https://databutton.com/ | Cloud | App Builder | Full-cycle AI app developer (planning, coding, deployment) | Premium |
+| Dexto | https://github.com/truffle-ai/dexto | CLI + Web | CLI Agent | Open agent harness with production-ready coding agent—YAML config, 50+ LLM support, MCP tools, persistent memory | Free |
 | Devika | https://github.com/stitionai/devika | Cloud / OSS | Autonomous Agent | Devin-style agent: plans, browses, and codes toward a goal | Free |
 | Devin AI | https://devin.ai/ | Cloud | Autonomous Agent | Autonomous AI software engineer handling complete tasks | Premium |
 | Floot | https://floot.com/ | Cloud | App Builder | Platform for non-coders to build apps and websites using AI | Free + Premium |
