@@ -65,6 +65,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Gemini CLI | https://codeassist.google/ | CLI | CLI Agent | Terminal AI agent (tools, MCP-style extensions); fixes bugs, builds features, improves tests | Free + Premium |
 | GPT-Engineer | https://github.com/AntonOsika/gpt-engineer | CLI | CLI Agent | Minimalist AI generating complete codebases from a prompt | Free |
 | GPT-Pilot | https://github.com/Pythagora-io/gpt-pilot | CLI | Multi-Agent System | Multi-agent workflow simulating a fuller SDLC (planning → implementation) | Free |
+| great_cto | https://github.com/avelikiy/great_cto | CLI + IDE | Multi-Agent System | 34-agent SDLC orchestrator (architect, pm, senior-dev, code-reviewer, qa, security, devops + 18 archetype-specific reviewers); 25 archetypes auto-detected with compliance gates; runs in Claude Code, Cursor, Codex, Aider, Continue | Free |
 | HeyBoss | https://heyboss.ai/ | Cloud | App Builder | AI conversational web-app/site/game generator | Premium |
 | Leap.new | https://leap.new/ | Cloud | Agent Platform | AI developer agent that builds production-grade apps and deploys them to your own cloud | Free + Premium |
 | Lovable.dev | https://lovable.dev/ | Cloud | App Builder | Conversational AI quickly building full-stack web apps | Premium |
