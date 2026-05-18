@@ -61,6 +61,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Databutton | https://databutton.com/ | Cloud | App Builder | Full-cycle AI app developer (planning, coding, deployment) | Premium |
 | Devika | https://github.com/stitionai/devika | Cloud / OSS | Autonomous Agent | Devin-style agent: plans, browses, and codes toward a goal | Free |
 | Devin AI | https://devin.ai/ | Cloud | Autonomous Agent | Autonomous AI software engineer handling complete tasks | Premium |
+| Everything OpenAI Codex | https://github.com/mturac/everything-openai-codex | CLI / OSS | Codex Workflow System | Open-source Codex workspace bundle with agents, skills, commands, hooks, memory patterns, install profiles, and validation checks | Free |
 | Floot | https://floot.com/ | Cloud | App Builder | Platform for non-coders to build apps and websites using AI | Free + Premium |
 | Gemini CLI | https://codeassist.google/ | CLI | CLI Agent | Terminal AI agent (tools, MCP-style extensions); fixes bugs, builds features, improves tests | Free + Premium |
 | GPT-Engineer | https://github.com/AntonOsika/gpt-engineer | CLI | CLI Agent | Minimalist AI generating complete codebases from a prompt | Free |
