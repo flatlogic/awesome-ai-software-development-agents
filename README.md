@@ -38,6 +38,7 @@ This list does **NOT** include:
 - General-purpose AI chatbots that do not operate directly on codebases or dev environments  
 - Pure AI code-completion tools (e.g., autocomplete assistants)  
 - Primarily visual no-code / low-code platforms where drag-and-drop UI is the main interaction model  
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT, one-command install.
 
 Some tools may include builder-style features, but only if they provide agent-driven development capabilities.
 
