@@ -50,6 +50,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Aider | https://github.com/Aider-AI/aider | CLI | CLI Agent | Terminal agent that edits/refactors codebases and iterates fast with LLMs | Free |
 | AppWizzy | https://appwizzy.com/ | Cloud | Agent Platform | Professional vibe-coding platform for SaaS, CRM, ERP, and other web apps and sites | Free + Premium |
 | Base44 | https://base44.com/ | Cloud | App Builder | Build fully-functional apps with AI (builder-first workflow) | Free |
+| BitFun | https://github.com/GCWing/BitFun | Desktop / CLI | Open-Source Agent Workbench | Cross-platform coding agent that plans, edits, runs tools, and works on real repositories with multiple model providers | Free |
 | Bolt.new | https://bolt.new/ | Cloud | IDE Agent | Full-stack browser-based IDE with conversational AI coding & deployment | Free |
 | Claude Code | https://www.claude.com/claude-code | CLI | CLI Agent | Agentic coding tool for terminal/IDE; manages large codebases and automates routine dev tasks | Premium |
 | Cline | https://github.com/cline/cline | IDE | IDE Agent | VS Code agent that plans, runs commands, and makes multi-file edits | Free + Premium |
