@@ -94,3 +94,4 @@ Some tools may include builder-style features, but only if they provide agent-dr
 ## 📜 License
 
 [**MIT License**](https://chatgpt.com/c/LICENSE) – Use freely, and contribute often!
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
