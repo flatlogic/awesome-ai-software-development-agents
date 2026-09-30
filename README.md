@@ -79,6 +79,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Smol Developer | https://github.com/smol-ai/developer | CLI | CLI Agent | Minimalist agent for rapid code generation and iteration | Free |
 | SWE-agent | https://github.com/SWE-agent/SWE-agent | CLI | Autonomous Agent | Autonomous agent that fixes real GitHub issues/repos (SWE-bench oriented) | Free |
 | ToolJet | https://tooljet.com/ | Cloud | Low-Code Platform | AI-enhanced low-code platform for internal tools | Free + Premium |
+| Wayari | https://wayari.com/ | CLI + Desktop + MCP | Multi-Agent System | Coordinates Claude Code and Codex in isolated worktrees, runs repository checks, and hands back reviewed pull requests | Paid / 7-day trial; bring your own agent plan |
 | Windsurf | https://windsurf.com/editor | IDE | IDE Agent | Agentic IDE focused on fast iterate/build loop | Free + Premium |
 
 ---
