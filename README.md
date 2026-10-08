@@ -66,6 +66,8 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | GPT-Engineer | https://github.com/AntonOsika/gpt-engineer | CLI | CLI Agent | Minimalist AI generating complete codebases from a prompt | Free |
 | GPT-Pilot | https://github.com/Pythagora-io/gpt-pilot | CLI | Multi-Agent System | Multi-agent workflow simulating a fuller SDLC (planning → implementation) | Free |
 | HeyBoss | https://heyboss.ai/ | Cloud | App Builder | AI conversational web-app/site/game generator | Premium |
+| Kortix | https://github.com/kortix-ai/suna | Cloud / Self-hosted | Agent Platform | Open-source AI Operating System: agents, skills, company memory and 3,000+ connectors in one git repo you own; each session runs on an isolated machine and lands its work as a change request | Free + Premium |
+
 | Leap.new | https://leap.new/ | Cloud | Agent Platform | AI developer agent that builds production-grade apps and deploys them to your own cloud | Free + Premium |
 | Lovable.dev | https://lovable.dev/ | Cloud | App Builder | Conversational AI quickly building full-stack web apps | Premium |
 | Magically | https://trymagically.com/ | Cloud | App Builder | AI mobile app generator (iOS/Android) | Premium |
