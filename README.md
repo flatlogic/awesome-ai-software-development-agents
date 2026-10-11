@@ -78,6 +78,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Replit (Agent) | https://replit.com/ | Cloud | IDE Agent | Online IDE with conversational AI agent | Free + Premium |
 | Smol Developer | https://github.com/smol-ai/developer | CLI | CLI Agent | Minimalist agent for rapid code generation and iteration | Free |
 | SWE-agent | https://github.com/SWE-agent/SWE-agent | CLI | Autonomous Agent | Autonomous agent that fixes real GitHub issues/repos (SWE-bench oriented) | Free |
+| Tale | https://github.com/tale-project/tale | Self-hosted workspace | Agent Platform | Self-hostable workspace for coordinating people and AI agents through delegated software tasks, persistent sandbox workspaces, project knowledge, and human review of reports and deliverables | Free / open source |
 | ToolJet | https://tooljet.com/ | Cloud | Low-Code Platform | AI-enhanced low-code platform for internal tools | Free + Premium |
 | Windsurf | https://windsurf.com/editor | IDE | IDE Agent | Agentic IDE focused on fast iterate/build loop | Free + Premium |
 
