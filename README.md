@@ -67,6 +67,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | GPT-Engineer | https://github.com/AntonOsika/gpt-engineer | CLI | CLI Agent | Minimalist AI generating complete codebases from a prompt | Free |
 | GPT-Pilot | https://github.com/Pythagora-io/gpt-pilot | CLI | Multi-Agent System | Multi-agent workflow simulating a fuller SDLC (planning → implementation) | Free |
 | HeyBoss | https://heyboss.ai/ | Cloud | App Builder | AI conversational web-app/site/game generator | Premium |
+| Kortix | https://github.com/kortix-ai/suna | Cloud / Self-hosted | Agent Platform | Source-available AI agent platform for coding tasks in isolated sessions with change-request review (ELv2) | Free + Premium |
 | Leap.new | https://leap.new/ | Cloud | Agent Platform | AI developer agent that builds production-grade apps and deploys them to your own cloud | Free + Premium |
 | Lovable.dev | https://lovable.dev/ | Cloud | App Builder | Conversational AI quickly building full-stack web apps | Premium |
 | LoopTroop | https://github.com/looptroop-ai/LoopTroop | Desktop / GUI | Multi-Agent System | Local GUI orchestrator for long-running AI coding with LLM Council planning, isolated git worktree execution, and fresh-context Ralph retry loops | Free |
