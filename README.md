@@ -50,7 +50,6 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Aider | https://github.com/Aider-AI/aider | CLI | CLI Agent | Terminal agent that edits/refactors codebases and iterates fast with LLMs | Free |
 | AppWizzy | https://appwizzy.com/ | Cloud | Agent Platform | Professional vibe-coding platform for SaaS, CRM, ERP, and other web apps and sites | Free + Premium |
 | Base44 | https://base44.com/ | Cloud | App Builder | Build fully-functional apps with AI (builder-first workflow) | Free |
-| BitFun | https://github.com/GCWing/BitFun | Desktop / CLI | Open-Source Agent Workbench | Cross-platform coding agent that plans, edits, runs tools, and works on real repositories with multiple model providers | Free |
 | Bolt.new | https://bolt.new/ | Cloud | IDE Agent | Full-stack browser-based IDE with conversational AI coding & deployment | Free |
 | Claude Code | https://www.claude.com/claude-code | CLI | CLI Agent | Agentic coding tool for terminal/IDE; manages large codebases and automates routine dev tasks | Premium |
 | Cline | https://github.com/cline/cline | IDE | IDE Agent | VS Code agent that plans, runs commands, and makes multi-file edits | Free + Premium |
@@ -72,6 +71,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Magically | https://trymagically.com/ | Cloud | App Builder | AI mobile app generator (iOS/Android) | Premium |
 | Memex | https://memex.tech/ | Desktop | Desktop Agent | Build across stacks using natural language on your desktop | Free + Premium |
 | Mocha | https://getmocha.com/ | Cloud | App Builder | Front-end-only React app builder | Free + Premium |
+| OpenBitFun | https://github.com/GCWing/OpenBitFun | Desktop / CLI | Open-Source Agent Workbench | Cross-platform coding agent that plans, edits, runs tools, and works on real repositories with multiple model providers | Free |
 | OpenCode | https://github.com/opencode-ai/opencode | CLI | CLI Agent | Open-source coding agent (TUI) with repo workflows/integrations | Free |
 | OpenDevin | https://github.com/AI-App/OpenDevin.OpenDevin | Cloud / OSS | Autonomous Agent | Open-source “Devin-like” autonomous engineer project | Free |
 | OpenHands | https://github.com/OpenHands/OpenHands | SDK / CLI | Agent Framework | Framework/ecosystem for building and running software engineering agents | Free |
