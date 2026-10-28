@@ -71,6 +71,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Magically | https://trymagically.com/ | Cloud | App Builder | AI mobile app generator (iOS/Android) | Premium |
 | Memex | https://memex.tech/ | Desktop | Desktop Agent | Build across stacks using natural language on your desktop | Free + Premium |
 | Mocha | https://getmocha.com/ | Cloud | App Builder | Front-end-only React app builder | Free + Premium |
+| Newly | https://newly.app/ | Cloud | App Builder | AI agent builds native iOS and Android apps from natural-language prompts with source-code export | Premium |
 | OpenCode | https://github.com/opencode-ai/opencode | CLI | CLI Agent | Open-source coding agent (TUI) with repo workflows/integrations | Free |
 | OpenDevin | https://github.com/AI-App/OpenDevin.OpenDevin | Cloud / OSS | Autonomous Agent | Open-source “Devin-like” autonomous engineer project | Free |
 | OpenHands | https://github.com/OpenHands/OpenHands | SDK / CLI | Agent Framework | Framework/ecosystem for building and running software engineering agents | Free |
