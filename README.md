@@ -62,6 +62,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Devika | https://github.com/stitionai/devika | Cloud / OSS | Autonomous Agent | Devin-style agent: plans, browses, and codes toward a goal | Free |
 | Devin AI | https://devin.ai/ | Cloud | Autonomous Agent | Autonomous AI software engineer handling complete tasks | Premium |
 | Floot | https://floot.com/ | Cloud | App Builder | Platform for non-coders to build apps and websites using AI | Free + Premium |
+| Forge | https://github.com/LucasDuys/forge | CLI | CLI Agent | Autonomous spec-driven development loop for Claude Code; brainstorm specs, plan task DAGs, execute autonomously with TDD and context survival | Free |
 | Gemini CLI | https://codeassist.google/ | CLI | CLI Agent | Terminal AI agent (tools, MCP-style extensions); fixes bugs, builds features, improves tests | Free + Premium |
 | GPT-Engineer | https://github.com/AntonOsika/gpt-engineer | CLI | CLI Agent | Minimalist AI generating complete codebases from a prompt | Free |
 | GPT-Pilot | https://github.com/Pythagora-io/gpt-pilot | CLI | Multi-Agent System | Multi-agent workflow simulating a fuller SDLC (planning → implementation) | Free |
