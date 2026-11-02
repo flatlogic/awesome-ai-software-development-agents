@@ -85,6 +85,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | SWE-agent | https://github.com/SWE-agent/SWE-agent | CLI | Autonomous Agent | Autonomous agent that fixes real GitHub issues/repos (SWE-bench oriented) | Free |
 | ToolJet | https://tooljet.com/ | Cloud | Low-Code Platform | AI-enhanced low-code platform for internal tools | Free + Premium |
 | Windsurf | https://windsurf.com/editor | IDE | IDE Agent | Agentic IDE focused on fast iterate/build loop | Free + Premium |
+| wippaAGENT | https://github.com/wippa-studios/wippaAGENT | CLI | CLI Agent | OpenCode agent fleet: one orchestrator delegates to twelve specialists and reports done only when the acceptance command exits 0 | Free |
 
 ---
 
