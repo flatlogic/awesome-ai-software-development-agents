@@ -55,6 +55,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Cline | https://github.com/cline/cline | IDE | IDE Agent | VS Code agent that plans, runs commands, and makes multi-file edits | Free + Premium |
 | Co.dev | https://co.dev/ | Cloud | App Builder | AI-generated Next.js & Supabase apps from text prompts | Free + Premium |
 | Codex (OpenAI) | https://openai.com/codex | CLI + Cloud | Agent | Cloud software-engineering agent (in ChatGPT) with companion Codex CLI for terminal-first work | Premium |
+| Concord | https://github.com/Get-Concord-AI/concord-mcp | CLI + MCP | Agent Coordination | MCP server and CLI that lets Claude Code, Codex, Cursor, Gemini CLI and other coding agents message each other, claim work, share task memory and hand off in one shared workspace | Free (open source) + Premium |
 | Continue | https://www.continue.dev/ | IDE + CI | IDE Agent | Configurable IDE agent plus agents-on-PR / review workflows | Free + Premium |
 | Create.xyz | https://create.xyz/ | Cloud | App Builder | No-code web app builder using AI from text/images | Free + Premium |
 | Cursor (Agent) | https://cursor.com/ | IDE | IDE Agent | Agent mode in IDE: edits repo, runs terminal commands, searches codebase | Premium |
