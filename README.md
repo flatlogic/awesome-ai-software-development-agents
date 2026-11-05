@@ -80,6 +80,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | OpenHands | https://github.com/OpenHands/OpenHands | SDK / CLI | Agent Framework | Framework/ecosystem for building and running software engineering agents | Free |
 | Orkas | https://github.com/Orkas-AI/Orkas | Desktop | Multi-Agent System | Local-first workspace that coordinates specialist coding agents across real projects | Free |
 | Probz AI | https://probz.ai/ | Cloud | App Builder | No-code AI builder for CRUD apps and internal tools | Premium |
+| Primio | https://primio.dev/ | Cloud | App Builder | Conversational builder for full Flutter apps (mobile + web) with live preview, in-browser emulator, and app-store publishing | Free + Premium |
 | Replit (Agent) | https://replit.com/ | Cloud | IDE Agent | Online IDE with conversational AI agent | Free + Premium |
 | Smol Developer | https://github.com/smol-ai/developer | CLI | CLI Agent | Minimalist agent for rapid code generation and iteration | Free |
 | SWE-agent | https://github.com/SWE-agent/SWE-agent | CLI | Autonomous Agent | Autonomous agent that fixes real GitHub issues/repos (SWE-bench oriented) | Free |
