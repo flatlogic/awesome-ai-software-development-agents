@@ -47,6 +47,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 
 | Tool | Link | Interface | Category | Description | Pricing |
 |---|---|---|---|---|---|
+| agent-qa | https://vostride.com | CLI + local dashboard + MCP | QA Agent | Authors and runs plain-English web, Android and iOS tests with persistent memidex memory and validated self-improvement | Free (FSL-permitted use); model/infrastructure costs separate |
 | Aider | https://github.com/Aider-AI/aider | CLI | CLI Agent | Terminal agent that edits/refactors codebases and iterates fast with LLMs | Free |
 | AppWizzy | https://appwizzy.com/ | Cloud | Agent Platform | Professional vibe-coding platform for SaaS, CRM, ERP, and other web apps and sites | Free + Premium |
 | Base44 | https://base44.com/ | Cloud | App Builder | Build fully-functional apps with AI (builder-first workflow) | Free |
