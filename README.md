@@ -82,6 +82,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Probz AI | https://probz.ai/ | Cloud | App Builder | No-code AI builder for CRUD apps and internal tools | Premium |
 | Replit (Agent) | https://replit.com/ | Cloud | IDE Agent | Online IDE with conversational AI agent | Free + Premium |
 | Smol Developer | https://github.com/smol-ai/developer | CLI | CLI Agent | Minimalist agent for rapid code generation and iteration | Free |
+| Sno Station | https://github.com/sno-ai/sno-station | CLI | Multi-Agent System | Runs Claude Code, Codex and Cursor as one team: `sno reach pair` puts a builder and a challenger on a task, and work moves to another agent at a usage limit | Free + Premium |
 | SWE-agent | https://github.com/SWE-agent/SWE-agent | CLI | Autonomous Agent | Autonomous agent that fixes real GitHub issues/repos (SWE-bench oriented) | Free |
 | ToolJet | https://tooljet.com/ | Cloud | Low-Code Platform | AI-enhanced low-code platform for internal tools | Free + Premium |
 | Windsurf | https://windsurf.com/editor | IDE | IDE Agent | Agentic IDE focused on fast iterate/build loop | Free + Premium |
