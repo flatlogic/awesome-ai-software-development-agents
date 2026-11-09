@@ -78,6 +78,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | OpenCode | https://github.com/opencode-ai/opencode | CLI | CLI Agent | Open-source coding agent (TUI) with repo workflows/integrations | Free |
 | OpenDevin | https://github.com/AI-App/OpenDevin.OpenDevin | Cloud / OSS | Autonomous Agent | Open-source “Devin-like” autonomous engineer project | Free |
 | OpenHands | https://github.com/OpenHands/OpenHands | SDK / CLI | Agent Framework | Framework/ecosystem for building and running software engineering agents | Free |
+| Orbi | [orbi.build](https://orbi.build/?ref=dir-flatlogic-awesome-agents) ([source](https://github.com/orbi-build/orbi)) | GitHub / CLI | Autonomous Agent | Labeled GitHub issues to isolated implementation, independent acceptance review, gated merges and releases on request | Free self-hosted; bring your own model key; Cloud available |
 | Orkas | https://github.com/Orkas-AI/Orkas | Desktop | Multi-Agent System | Local-first workspace that coordinates specialist coding agents across real projects | Free |
 | Probz AI | https://probz.ai/ | Cloud | App Builder | No-code AI builder for CRUD apps and internal tools | Premium |
 | Replit (Agent) | https://replit.com/ | Cloud | IDE Agent | Online IDE with conversational AI agent | Free + Premium |
