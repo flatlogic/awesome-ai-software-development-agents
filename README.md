@@ -74,6 +74,7 @@ Some tools may include builder-style features, but only if they provide agent-dr
 | Magically | https://trymagically.com/ | Cloud | App Builder | AI mobile app generator (iOS/Android) | Premium |
 | Memex | https://memex.tech/ | Desktop | Desktop Agent | Build across stacks using natural language on your desktop | Free + Premium |
 | Mocha | https://getmocha.com/ | Cloud | App Builder | Front-end-only React app builder | Free + Premium |
+| MyAgents | https://github.com/hAcKlyc/MyAgents | Desktop / CLI | Open-Source Agent Workbench | macOS and Windows workbench for Claude Code, Codex, and DeepSeek Harness in local project workspaces, with cross-device task handoffs | Free app; provider charges may apply |
 | OpenBitFun | https://github.com/GCWing/OpenBitFun | Desktop / CLI | Open-Source Agent Workbench | Cross-platform coding agent that plans, edits, runs tools, and works on real repositories with multiple model providers | Free |
 | OpenCode | https://github.com/opencode-ai/opencode | CLI | CLI Agent | Open-source coding agent (TUI) with repo workflows/integrations | Free |
 | OpenDevin | https://github.com/AI-App/OpenDevin.OpenDevin | Cloud / OSS | Autonomous Agent | Open-source “Devin-like” autonomous engineer project | Free |
